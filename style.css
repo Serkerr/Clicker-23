@@ -1,0 +1,28 @@
+#canvas{
+    background-color:rgb(170, 136, 203);
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+
+#score{
+    color:rgb(226, 43, 159);
+    font-size: 48px;
+    font-weight: bold;
+    color: rgb(255, 255, 0);
+
+}
+
+#button{
+    background-color: rgb(144, 87, 165);
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin: 0 auto;
+    line-height: 200px;
+    user-select: none;
+    margin-top: 100px;
+    font-size: 34px;
+    color: rgb(255, 255, 0);
+
+}
